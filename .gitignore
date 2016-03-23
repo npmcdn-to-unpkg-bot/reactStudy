@@ -31,3 +31,29 @@ node_modules
 
 # Optional REPL history
 .node_repl_history
+node_modules
+svn
+lib-cov
+flash
+.svn
+_*
+
+*.csv
+*.dat
+*.out
+*.pid
+*.gz
+*.TMP
+
+pids
+logs
+results
+tmp
+
+dist/*
+dest/*
+npm-debug.log
+.id:
+.DS_Store
+.idea
+bower_components
